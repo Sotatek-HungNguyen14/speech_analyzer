@@ -254,7 +254,7 @@ public class SpeechAnalyzerPlugin: NSObject, FlutterPlugin {
     // MARK: - Permission Methods
     
     private func hasPermission(_ result: @escaping FlutterResult) {
-        var hasPermission = true // SpeechAnalyzer API không cần SFSpeechRecognizer permission
+        var hasPermission = true 
         
         #if os(iOS)
         hasPermission = audioSession.recordPermission == .granted

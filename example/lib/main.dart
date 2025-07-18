@@ -140,7 +140,7 @@ class _LiveTranslationDemoState extends State<LiveTranslationDemo>
         }
       });
     } catch (e) {
-      print('Error loading locales: $e');
+      _showSnackBar('Error loading locales: $e', Colors.red);
     }
   }
 

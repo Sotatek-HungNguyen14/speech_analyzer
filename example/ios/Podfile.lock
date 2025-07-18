@@ -21,7 +21,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
   integration_test: 4a889634ef21a45d28d50d622cf412dc6d9f586e
-  speech_analyzer: cf70244db134ba3919739ec5f65a66da9ae084df
+  speech_analyzer: 7f8507945eb2e3787a1dae48f2ba4d39b0bfd9ac
 
 PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
 
